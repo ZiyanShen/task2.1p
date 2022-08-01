@@ -7,10 +7,10 @@ const errorHandler = require("./middleware/errorHandler");
 // const expressStatic = require("express-static")
 
 const PORT = process.env.PORT || 3500;
-// app.use('/static', express.static(path.join(__dirname, '/public/static')));
-// app.use('/images', express.static(path.join(__dirname, '/public/images')));
+
+// public
 app.use('/', express.static(path.join(__dirname, '/public')));
-// app.use(expressStatic("./public"))
+
 
 // logger
 app.use(logger)
