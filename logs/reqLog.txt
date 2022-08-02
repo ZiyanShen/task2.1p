@@ -1,3 +1,9 @@
 20220801	18:47:30	a18bd317-367e-4485-8dd1-3f0671cf524a	POST	http://localhost:7000	/email
 20220801	18:47:31	13d3e978-d74e-457a-bb61-9e0867672237	Succeed ID:<32bd4076-d6fd-cdf1-82f9-901929862662@qq.com>
 20220801	18:48:32	146aa3c2-1682-49fa-8a9e-7439fbb67b68	GET	undefined	/favicon.ico
+20220801	20:52:01	b1e0a5f2-d1c9-4394-a2fc-d6be77747afa	GET	undefined	/favicon.ico
+20220801	20:52:04	7254d569-da9f-4e80-9b95-141f234df6f6	POST	http://localhost:7000	/email
+20220801	20:52:25	6c35fe30-aff6-442b-b8b7-4d9cd54dd87c	POST	http://localhost:7000	/email
+20220802	12:03:42	760d6500-ea28-458f-873d-b02a180b09e1	GET	undefined	/favicon.ico
+20220802	12:03:46	070b5342-3831-4e62-8b22-be8dd28af780	POST	http://localhost:7000	/email
+20220802	12:03:47	30dc6f4a-b8cd-48d2-8676-ce7129d49146	Succeed ID:<11553580-155e-b0db-1c26-d15959a4d798@qq.com>
